@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Breye</h1>
-<h3 align="center">A curious Computer Science student passionate about AI, Data Science, Security, and Tech</h3>
+<h3 align="center">A Computer Science student passionate about AI, Data Science, Security, and Tech</h3>
 
 ---
 
