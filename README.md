@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 
 ### 📊 GitHub Stats
-![Breye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreyeFoka&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreyeFoka&layout=compact&theme=radical)
+![Breye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreyeFoka&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreyeFoka)
 
 ---
 
