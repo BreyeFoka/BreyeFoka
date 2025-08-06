@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science undergraduate from **Kigali, Rwanda** with **4+ years** of experience in software development. I specialize in creating innovative solutions across multiple domains.
+I'm a passionate Computer Science undergraduate from **Kigali, Rwanda**.
 
 ```yaml
-Current Status: Computer Science Student & Self-Employed Developer
+Current Status: Computer Science Student 
 Location: Kigali, Rwanda
 Interests: AI/ML, Cybersecurity, Data Science, IoT, Web Development
 Active Since: August 2020
@@ -52,44 +52,6 @@ Active Since: August 2020
 
 ---
 
-## 🎯 Specialization Areas
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Artificial Intelligence & Machine Learning
-- Deep Learning with TensorFlow/PyTorch
-- Computer Vision & NLP
-- Predictive Analytics
-- Neural Network Architecture
-
-### 🔐 Cybersecurity & Ethical Hacking
-- Penetration Testing
-- Network Security
-- Vulnerability Assessment
-- Security Auditing
-
-</td>
-<td width="50%">
-
-### 📊 Data Science & Analytics
-- Statistical Analysis
-- Data Visualization
-- Big Data Processing
-- Business Intelligence
-
-### 🌐 Full-Stack Development
-- Modern Web Applications
-- RESTful API Development
-- Database Design
-- Cloud Architecture
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📈 GitHub Analytics
 
@@ -102,28 +64,6 @@ Active Since: August 2020
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BreyeFoka&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 </div>
-
----
-
-## 🌟 Featured Projects
-
-### 🔥 Recent Highlights
-- **AI-Powered Security Scanner** - Advanced vulnerability detection system
-- **IoT Smart Home Platform** - Complete home automation solution
-- **Data Visualization Dashboard** - Real-time analytics platform
-- **Blockchain Voting System** - Secure decentralized voting application
-
----
-
-## 📊 Contribution Activity
-
-```text
-📦 36+ Public Repositories
-👥 115 Followers • 103 Following
-🌟 Active contributor since August 2020
-💼 Self-employed developer
-📧 Available for collaboration
-```
 
 ---
 
@@ -145,16 +85,11 @@ Active Since: August 2020
 > *"Code is poetry written in logic. Every algorithm tells a story, every function solves a problem, and every project makes the world a little bit better."*
 
 ---
-## life Quote
-> *"Stay hungry, stay foolish!"*
----
 
 <div align="center">
 
 ### 🚀 Always Learning, Always Building, Always Innovating
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BreyeFoka&color=blueviolet&style=flat-square)
-
-**⭐ Star my repositories if you find them useful!**
 
 </div>
