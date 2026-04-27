@@ -30,7 +30,7 @@ I think I fit in the definition of either Autistic or Polymath or both (its alwa
 - Plan-Develop-Deploy & test a Web App
 - Pentest an up and running software or network
 - Design-Build-Train-Evaluate-Finetune different AI/ML models and AI/ML systems
-- Design-Prototype-Test Hardware/software projects for Embedded systems and IoT(Did I say I know ow to solder?)
+- Design-Prototype-Test Hardware/software projects for Embedded systems and IoT(Did I say I know how to solder?)
 - Do some Math
 
 ### Mentra 
