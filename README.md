@@ -5,11 +5,6 @@
 ### (Software · AI/ML - Data science  · Robotics/IoT & Embedded Systems ) => Engineer · Comp. Sci. Undergraduate (UoK) · Cybersecurity Pentester
 ### Maybe one Day  pilot...
 
-### Links I live by: 
-
-[![More details](https://img.shields.io/badge/breyefoka.dev-000000?style=for-the-badge)](https://breyefoka.dev)
-[![See the Code](https://img.shields.io/badge/GitHub-BreyeFoka-181717?style=for-the-badge&logo=github)](https://github.com/BreyeFoka)
-
 ---
 
 ## Favorite
