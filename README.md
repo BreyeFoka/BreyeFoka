@@ -16,7 +16,7 @@
 ## About Me
 
 Currently Enrolled in a comp sci degree in Uni but started coding in highschool  by curiosity and ended up in multiple sectors of tech.
-I think I fit in the definition of either Autistic or Polymath or both (its always more fun to be both!)
+I think I fit in the definition of polymath
 
 ### So in short I can:
 
